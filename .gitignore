@@ -1,0 +1,5 @@
+img_grayscale/
+img_fun/
+img_tr/
+.DS_Store
+__pycache__/
